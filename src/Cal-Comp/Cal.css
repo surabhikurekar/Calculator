@@ -1,0 +1,19 @@
+.cal-comp{
+    border: 1px solid aqua;
+    height: 600px;
+}
+
+.cal-button-wrapper{
+    border: 1px solid red;
+    width: 34%;
+    height: 147px;
+    margin: 50px 0px 0px 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  
+}
+.cal-button-row{
+    display: flex;
+    justify-content: space-around;
+}
